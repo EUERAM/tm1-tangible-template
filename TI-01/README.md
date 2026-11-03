@@ -8,7 +8,7 @@
 
 ## Challenge: Signal light
 
-Design an LED signal that means something to someone: a heartbeat, “wait”, “go”, “I’m busy”, SOS…
+Design a signal with LEDs and a buzzer that means something to someone: a heartbeat, “wait”, “go”, an alarm, SOS…
 
 **Must have** (tick each box when it works: edit this file and change `[ ]` to `[x]`)
 
@@ -33,10 +33,10 @@ _Two or three sentences: what does it do, who is it for, and how does a person i
 _List every component and material you used._
 
 | Component / material | Quantity | Notes |
-| --- | --- | --- |
-| Arduino Uno | 1 | |
-| | | |
-| | | |
+| -------------------- | -------- | ----- |
+| Arduino Uno          | 1        |       |
+|                      |          |       |
+|                      |          |       |
 
 ## Photo
 
